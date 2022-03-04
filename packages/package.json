@@ -1,0 +1,19 @@
+{
+  "name": "rc_testpackage",
+  "version": "1.0.0",
+  "description": "for testing first package testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravimohan0401/npmpackagedemotest.git"
+  },
+  "author": "ravichandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravimohan0401/npmpackagedemotest/issues"
+  },
+  "homepage": "https://github.com/ravimohan0401/npmpackagedemotest#readme"
+}
